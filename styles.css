@@ -1,0 +1,127 @@
+.navbar-collapse{
+  margin-left: 20%;
+}
+
+.GS{
+    background-color: rgb(33, 44, 37, 100%);
+    width:45%;
+    height: 40%;
+    
+}
+.GS:hover{
+  color: black;
+  background-color:rgb(241, 255, 224, 100%) ;
+}
+.GS a{
+    color: white;
+    display: inline-block;
+}
+.GS a:hover{
+color: black;
+}
+@media (min-width: 768px) { 
+    .GS {
+      width: 90%;
+      height: 10%;
+    }
+  }
+ .Testimonials{
+  background-color:rgb(71, 85, 54,100%) ;
+  margin-left: 5px;
+ }
+ .services{
+  margin-left: 5px;
+ }
+ .about{
+  background-color: rgb(241, 255, 224, 100%);
+ }
+  /* .feature-icon{
+    margin-right: 100px;
+  } */
+   .quest{
+    background-color: rgb(71, 85, 54,100%);
+    color: white;
+   }
+   .FAQ{
+    background-color: rgb(241, 255, 224, 100%);
+   }
+   .links{
+    background-color: rgb(241, 255, 224, 100%);
+  }
+  .medialink{
+    width: 50px;
+    height: 50px;
+  }
+  textarea{
+    height: 120px;
+  }
+  .btn{
+    background-color:rgb(71, 85, 54,100%) ;
+    color: white;
+  }
+  form{
+    background-color:rgb(241, 255, 224, 100%) ;
+  }
+  @media (min-width: 768px) { 
+    .foot {
+     padding-top: 25%;
+    }
+  }
+  .button{
+    background-color: rgb(71, 85, 54,100%);
+    color: white;
+  }
+  .button:hover{
+    background-color: rgb(208, 238, 170);
+  }
+  .create{
+    color: rgb(71, 85, 54,100%) ;
+  }
+  .loginSection{
+    width: 100%;
+    height: 100%;
+  }
+  .logo{
+    padding-left: 53%;
+  }
+  .side{
+    margin-top: 35%;
+  }
+  @media (min-width: 768px) { 
+    .mediaIcons {
+     height: 10%;
+    }
+    .form-1 {
+      background-color: transparent;
+     }
+  }
+  .signin{
+    background-color: transparent;
+    color: black;
+  }
+  .column-2{
+    background-color:rgb(208, 238, 170) ;
+  }
+  @media (min-width: 0) and (max-width: 600px) { 
+    .mobile {
+      background-color:rgb(208, 238, 170) ;
+    }
+  }
+  .forgot-container{
+    margin-top:5%;
+    height: auto;
+  }
+
+  .reset-container{
+    height: auto;
+    padding-bottom: 30px;
+    margin-top:5%;
+
+  }
+  /* @media (min-width: 768px) { 
+    .forgot-container{
+    
+      height: 30vh;
+    }
+  } */
+  
