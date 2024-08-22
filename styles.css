@@ -118,6 +118,9 @@ color: black;
     margin-top:5%;
 
   }
+  .privacy{
+    background-color: rgb(71, 85, 54,100%);
+  }
   /* @media (min-width: 768px) { 
     .forgot-container{
     
